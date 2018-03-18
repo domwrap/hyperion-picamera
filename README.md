@@ -4,7 +4,7 @@ Interstitial program to capture and transform a video feed to use as Hyperion LE
 
 ## Introduction
 
-I have had a [https://github.com/hyperion-project](Hyperion) ambilight installation for several years but when I recently moved to a new 4K HDR tv none of my streaming or local media would play very well on existing sources, and my AVR is not very 4K compatible (only 30fps, no HDR). Furthermore, my TV only has one "good" HDMI port that supports HDR in but also ARC out which further complicates things.
+I have had a [Hyperion](https://github.com/hyperion-project) ambilight installation for several years but when I recently moved to a new 4K HDR tv none of my streaming or local media would play very well on existing sources, and my AVR is not very 4K compatible (only 30fps, no HDR). Furthermore, my TV only has one "good" HDMI port that supports HDR in but also ARC out which further complicates things.
 
 As a result I've ended up playing almost all of my content through the TV's built in apps which are actually very good, but cannot be captured to work with Hyperion.
 
