@@ -1,6 +1,10 @@
 # hyperion-picamera
 Interstitial program to capture and transform a video feed to use as Hyperion LED source
 
+# WARNING
+
+`NOTE: This is a pre-alpha, work-in-progress, hobby project and does not (yet) work locally, nor is it destined (yet) to work for anybody else.`
+
 
 ## Introduction
 
